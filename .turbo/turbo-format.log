@@ -1,0 +1,10 @@
+
+
+> python@1.0.0 format /Users/hieudoan/git/github.com/hieudoanm/hieudoanm/languages/python
+> make format
+
+python3 -m black .
+[1mSkipping .ipynb files as Jupyter dependencies are not installed.
+You can fix this by running ``pip install "black[jupyter]"``[0m
+[1mAll done! ✨ 🍰 ✨[0m
+[34m32 files [0mleft unchanged.
