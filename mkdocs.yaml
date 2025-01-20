@@ -1,0 +1,8 @@
+site_name: Python
+site_dir: docs
+site_url: https://hieudoanm.github.io/python
+docs_dir: source_docs
+nav:
+  - Home: index.md
+theme:
+  name: mkdocs
