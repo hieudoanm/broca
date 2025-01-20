@@ -1,21 +1,20 @@
-</div>
-
-The notion that there is no best programming language, only the best one for a specific job emphasizes the importance of choosing the right tool for the task at hand. Each language has its strengths and weaknesses, making it suitable for particular use cases and contexts, fostering versatility and adaptability in software development.
+# Languages
 
 ## Table of Content
 
-- [Table of Content](#table-of-content)
-- [0. Overview](#0-overview)
-- [1. JavaScript as Swiss Army Knives](#1-javascript-as-swiss-army-knives)
-- [2. Java - Write Once Run Everywhere](#2-java---write-once-run-everywhere)
-- [3. Go for CLI](#3-go-for-cli)
-- [4. Python for Data Science](#4-python-for-data-science)
-- [5. C / C++ for Game Development](#5-c--c-for-game-development)
-- [6. Swift for iOS Development](#6-swift-for-ios-development)
-- [7. Kotlin for Android Development](#7-kotlin-for-android-development)
-- [8. C# for Windows Desktop Development](#8-c-for-windows-desktop-development)
-- [9. Dart with Flutter for Cross-platform Development](#9-dart-with-flutter-for-cross-platform-development)
-- [10. Ruby on Rails for Full-stack Web Development](#10-ruby-on-rails-for-full-stack-web-development)
+- [Languages](#languages)
+  - [Table of Content](#table-of-content)
+  - [0. Overview](#0-overview)
+  - [1. JavaScript as Swiss Army Knives](#1-javascript-as-swiss-army-knives)
+  - [2. Java - Write Once Run Everywhere](#2-java---write-once-run-everywhere)
+  - [3. Go for CLI](#3-go-for-cli)
+  - [4. Python for Data Science](#4-python-for-data-science)
+  - [5. C / C++ for Game Development](#5-c--c-for-game-development)
+  - [6. Swift for iOS Development](#6-swift-for-ios-development)
+  - [7. Kotlin for Android Development](#7-kotlin-for-android-development)
+  - [8. C# for Windows Desktop Development](#8-c-for-windows-desktop-development)
+  - [9. Dart with Flutter for Cross-platform Development](#9-dart-with-flutter-for-cross-platform-development)
+  - [10. Ruby on Rails for Full-stack Web Development](#10-ruby-on-rails-for-full-stack-web-development)
 
 ## 0. Overview
 
