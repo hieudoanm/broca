@@ -1,7 +1,7 @@
 black==25.1.0
 matplotlib==3.10.0
 mkdocs==1.6.1
-numpy==2.2.2
+numpy==2.2.3
 pandas==2.2.3
 ruff==0.9.6
 scikit-learn==1.6.1
