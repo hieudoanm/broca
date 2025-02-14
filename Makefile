@@ -7,7 +7,7 @@ check:
 update:
 	pip install --upgrade --force-reinstall -r requirements.txt
 
-build:
+docs:
 	rm -rf docs
 	mkdir source_docs
 	cp README.md source_docs/index.md
