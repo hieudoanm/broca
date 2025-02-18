@@ -10,11 +10,11 @@
     "format": "prisma format && prettier --cache --write ."
   },
   "dependencies": {
-    "@prisma/client": "6.3.1"
+    "@prisma/client": "6.4.0"
   },
   "devDependencies": {
     "prettier": "3.5.1",
-    "prisma": "6.3.1"
+    "prisma": "6.4.0"
   },
   "keywords": [
     "usa"
