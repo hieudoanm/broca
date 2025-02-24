@@ -2,5 +2,5 @@
 
 langchain==0.3.19
 langchain-community==0.3.18
-langchain-core==0.3.37
+langchain-core==0.3.39
 streamlit==1.42.2
